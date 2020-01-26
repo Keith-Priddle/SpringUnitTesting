@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM java:13
+FROM java:11
 
 # Add Maintainer Info
 MAINTAINER Keith Priddle<k.priddle66@gmail.com>

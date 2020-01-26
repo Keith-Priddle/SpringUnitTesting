@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM openjdk:8-jdk-alpine
+FROM java:13
 
 # Add Maintainer Info
 MAINTAINER Keith Priddle<k.priddle66@gmail.com>

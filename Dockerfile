@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM java:11
+FROM adoptopenjdk/openjdk13:latest
 
 # Add Maintainer Info
 MAINTAINER Keith Priddle<k.priddle66@gmail.com>
